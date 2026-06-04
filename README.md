@@ -140,3 +140,16 @@ Modular chatbot UI components and frontend ecosystems designed for rapid integra
 <img src="https://capsule-render.vercel.app/api?type=soft&color=7c3aed&height=120&section=header&text=%22From%20Karachi%20streets%20to%20digital%20frontiers%22&fontSize=24&fontColor=ffffff&animation=fadeIn&desc=—%20Nexora%20Technologies%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=75" width="100%"/>
 
 </div>
+
+
+<div align="center">
+
+<img src="https://www.nexoraglobal.info/_next/image?url=%2Fimages%2Flogo.png&w=640&q=75" alt="Nexora Logo" width="100"/>
+
+<br/>
+
+<sub>© 2026 Nexora Technologies · Karachi, Pakistan 🇵🇰</sub>
+
+<sub>Building Practical AI-Powered Digital Systems Through Scalable Engineering & Modern Automation</sub>
+
+</div>
