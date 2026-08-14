@@ -101,8 +101,8 @@ Modular chatbot UI components and frontend ecosystems designed for rapid integra
 
 | Plan | Price Range | Best For |
 |------|------------|---------|
-| 🥉 **Basic** | PKR 5,000 – 10,000 | Simple websites & landing pages |
-| 🥈 **Pro** | PKR 10,000 – 20,000 | Full websites with backend & chatbot |
+| 🥉 **Basic** | PKR 11,000 – 14,000 | Simple websites & landing pages |
+| 🥈 **Pro** | PKR 17,000 – 24,000 | Full websites with backend & chatbot |
 | 🥇 **Enterprise** | PKR 20,000 – 50,000+ | Complete digital systems & AI integrations |
 
 > 💬 Final pricing is determined after project analysis and requirement evaluation. [Contact us](https://nexora.vercel.app) for a custom quote.
