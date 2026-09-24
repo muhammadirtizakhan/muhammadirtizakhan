@@ -3,7 +3,7 @@
 
 # Nexora Digital Solutions
 
-<img src="https://nexorasol.tech/transparent-logo.png" alt="Nexora Logo" width="200"/>
+<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Logo" width="200"/>
 
 <br/>
 
@@ -144,7 +144,7 @@ Modular chatbot UI components and frontend ecosystems designed for rapid integra
 
 <div align="center">
 
-<img src="https://nexorasol.tech/transparent-logo.png" alt="Nexora Logo" width="100"/>
+<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Logo" width="100"/>
 
 <br/>
 
