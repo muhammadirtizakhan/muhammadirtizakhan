@@ -1,9 +1,8 @@
-
 <div align="center">
 
-# Nexora Digital Solutions
+# Nexora Solvex
 
-<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Logo" width="200"/>
+<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Solvex Logo" width="200"/>
 
 <br/>
 
@@ -12,12 +11,12 @@
 [![Careers](https://img.shields.io/badge/💼_Careers-Join_Us-4f46e5?style=for-the-badge&logoColor=white)](https://nexora-job-portal.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-nexora.devx-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexora.devx)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_315_1196495-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923151196495)
-[![Email](https://img.shields.io/badge/Email-nexoradevx@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexoradevx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nexorasolvex@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexorasolvex@gmail.com)
 <br/>
 
 **We don't just build websites — we build complete digital systems.**
 
-Nexora is a modern AI-focused startup based in Karachi, Pakistan, dedicated to transforming local businesses through scalable digital infrastructures, intelligent chatbot systems, and AI-assisted automation workflows.
+Nexora Solvex is a modern AI-focused startup based in Karachi, Pakistan, dedicated to transforming local businesses through scalable digital infrastructures, intelligent chatbot systems, and AI-assisted automation workflows.
 
 We combine frontend engineering, backend development, AI integrations, dashboard systems, and reusable chatbot components into one practical and scalable ecosystem — designed for businesses that need real solutions, not templates.
 
@@ -31,7 +30,7 @@ Our mission is simple — modernize local businesses, simplify AI adoption, and 
 
 --------------
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=950&height=100&lines=NEXORA;DIGITAL+AGENCY;TURNING+IDEAS+INTO+REALITY;Every+startup+begins+with+a+spark%E2%9C%A8;Every+great+journey+starts+with+one+step;Every+masterpiece+was+once+just+a+dream;Every+success+story+started+with+a+small+idea;Every+vision+gains+power+when+you+take+action" alt="Nexora Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=950&height=100&lines=NEXORA+SOLVEX;DIGITAL+AGENCY;TURNING+IDEAS+INTO+REALITY;Every+startup+begins+with+a+spark%E2%9C%A8;Every+great+journey+starts+with+one+step;Every+masterpiece+was+once+just+a+dream;Every+success+story+started+with+a+small+idea;Every+vision+gains+power+when+you+take+action" alt="Nexora Solvex Typing Animation" />
 </div>
 
 ------------
@@ -94,6 +93,9 @@ Modular chatbot UI components and frontend ecosystems designed for rapid integra
 | [🛍️ Aetheric E-Commerce](https://aetheric-neon.vercel.app/) | Full e-commerce infrastructure with auth & product management | HTML · CSS · JS · Node.js · Firebase · Supabase | ✅ Live |
 | [🖥️ Aetheric Admin Dashboard](https://aetheric-admin-panel.vercel.app/) | Scalable admin dashboard with analytics & workflow management | HTML · CSS · JS · Dashboard Systems | ✅ Live |
 | [🏨 Hotel Booking Platform](https://hotel-booking-app-amber-omega.vercel.app/) | Modern hotel discovery & booking interface | HTML · CSS · JS · Node.js · MongoDB · Clerk | ✅ Live |
+| [🏬 Saud Emporium](https://www.saudemporium.com) | Premium ladies' fashion store (sarees, suits, maxi & jewelry) with cart, wishlist, secure accounts, EasyPaisa checkout & SEO | React · Node.js · Express · Supabase (PostgreSQL) · JWT | ✅ Live |
+| [🏥 MedixWeb](https://medixweb-x89r.vercel.app/) | AI hospital assistant: symptom-based doctor recommendation, chat-based appointment booking, WhatsApp & email confirmations | React · Node.js · Supabase · Groq · Clerk · Whapi · Brevo | ✅ Live |
+| [🎓 Edusity](https://edusity-com-beige.vercel.app/) | Modern, fully responsive educational platform with embedded video and Web3Forms contact integration | React · CSS · Web3Forms · Vercel | ✅ Live |
 
 ---
 
@@ -101,7 +103,7 @@ Modular chatbot UI components and frontend ecosystems designed for rapid integra
 
 | Plan | Price Range | Best For |
 |------|------------|---------|
-| 🥉 **Basic** | PKR 11,000 – 14,000 | Simple websites & landing pages |
+| 🥉 **Basic** | PKR 11,000 – 15,000 | Simple websites & landing pages |
 | 🥈 **Pro** | PKR 17,000 – 24,000 | Full websites with backend & chatbot |
 | 🥇 **Enterprise** | PKR 20,000 – 50,000+ | Complete digital systems & AI integrations |
 
@@ -133,22 +135,22 @@ Modular chatbot UI components and frontend ecosystems designed for rapid integra
 
 ----
 
-### ✍️ Nexora Quote
+### ✍️ Nexora Solvex Quote
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7c3aed&height=120&section=header&text=%22From%20Karachi%20streets%20to%20digital%20frontiers%22&fontSize=24&fontColor=ffffff&animation=fadeIn&desc=—%20Nexora%20Technologies%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=7c3aed&height=120&section=header&text=%22From%20Karachi%20streets%20to%20digital%20frontiers%22&fontSize=24&fontColor=ffffff&animation=fadeIn&desc=—%20Nexora%20Solvex%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=75" width="100%"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Logo" width="100"/>
+<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Solvex Logo" width="100"/>
 
 <br/>
 
-<sub>© 2026 Nexora Technologies · Karachi, Pakistan 🇵🇰</sub>
+<sub>© 2026 Nexora Solvex · Karachi, Pakistan 🇵🇰</sub>
 
 <sub>Building Practical AI-Powered Digital Systems Through Scalable Engineering & Modern Automation</sub>
 
