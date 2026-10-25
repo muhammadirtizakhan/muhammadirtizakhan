@@ -9,7 +9,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-nexora.vercel.app-7c3aed?style=for-the-badge&logoColor=white)](https://nexora-five-topaz.vercel.app/)
 [![Careers](https://img.shields.io/badge/💼_Careers-Join_Us-4f46e5?style=for-the-badge&logoColor=white)](https://nexora-job-portal.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-nexora.devx-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexora.devx)
+[![Instagram](https://img.shields.io/badge/Instagram-nexorasolvex-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexorasolvex?xtok=ODZ5aXB0N3BqZ3Fj)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_315_1196495-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923151196495)
 [![Email](https://img.shields.io/badge/Email-nexorasolvex@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexorasolvex@gmail.com)
 <br/>
